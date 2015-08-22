@@ -1,5 +1,4 @@
 # Canada eCoin cryptography project announcements
-<h2>Announcements Archive - Canada eCoin cryptography project</h2>
 
 Subscribe to this repo to be notified about major changes in the Canada eCoin cryptography project.
 
